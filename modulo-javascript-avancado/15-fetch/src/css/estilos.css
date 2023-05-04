@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+.cartas {
+  color: #fff;
+  background-image: linear-gradient(to bottom, #1a4a1c, #308834 600px);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+}
+
+.cartas #tirar-carta {
+  width: 240px;
+  height: 50px;
+  border-radius: 5px;
+  border: none;
+  background-color: hsl(193, 86%, 9%);
+  color: #fff;
+  font-size: 18px;
+  padding: 5px;
+}
+
+.cartas #tirar-carta:hover {
+  color: #fff;
+  cursor: pointer;
+  box-shadow: 0 5px 15px hsl(193, 38%, 86%);
+} 

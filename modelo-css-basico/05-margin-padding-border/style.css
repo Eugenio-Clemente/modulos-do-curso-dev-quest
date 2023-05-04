@@ -1,0 +1,36 @@
+/* 
+    colocando  cada lateral separada 
+    margin-top: 30px; 
+    margin-right: 15px;
+    margin-left: 30px;
+    margin-bottom: 15px; */
+
+
+/* 
+     colocando a forma no top e nas laterais 
+    margin: 30px 15px;   */
+
+
+/* essa seria a forma colocando o mesmo valor dos lados  
+    margin: 30px; */
+
+p {
+    margin: 15px;
+    padding: 20px;
+    background-color: aquamarine;
+    
+    border-style: solid;
+    border-width: 20px;
+    border-color: red;
+}
+
+
+h1 {
+
+    border-style: solid;
+    border-width: 20px;
+    border-top-color: #c0c0c0;
+    border-bottom-color: red;
+    border-right-color: blue;
+    border-left-color: green;
+}

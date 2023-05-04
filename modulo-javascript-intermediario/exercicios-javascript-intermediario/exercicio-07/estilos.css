@@ -1,0 +1,7 @@
+.input-texto{
+    border: 1px solid black;
+   }
+
+   .input-texto.preenchido{
+    border: 1px solid green;
+   }

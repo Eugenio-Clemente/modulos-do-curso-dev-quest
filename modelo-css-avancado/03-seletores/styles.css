@@ -1,0 +1,57 @@
+* {
+  padding: 0;
+  font-size: 20px;
+}
+
+h1 {
+  color: green;
+}
+
+.paragrafo {
+  color: blue;
+}
+
+#menu {
+  margin-left: 100px;
+}
+
+.titulo{
+    font-size: 20px;
+}
+
+.titulo.laranja{
+    color: orange;
+}
+
+.titulo.vermelho{
+    color: red;
+}
+
+p, span{
+    font-size: 10px;
+}
+
+
+.sobre .texto{
+    color: palevioletred;
+}
+
+/* pai > filha {
+    propriedade:valor;
+} */
+
+/* div > p {
+color: royalblue;
+} */
+
+div + p {
+color: royalblue;
+}
+
+a[target=_blank]{
+    color: orangered;
+}
+
+a[href="google.com"]{
+    color: red;
+}

@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+}
+
+.flex{
+    display: flex;
+    width: 960px;
+    max-width: 100%;
+    flex-wrap: wrap;
+}
+
+.flex img {
+   max-width: 100%;
+}
+
+.flex h3{
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center ;
+}
+
+.flex p {
+    padding: auto;
+    margin: 20px;
+    color:antiquewhite;
+}
+.coluna{
+    display: flex;
+    flex-direction: column;
+    margin: 0.5em;
+    flex: 0 1 200px;
+    background-color: #99552a;
+}
+
+.botao{
+    align-self: center;
+    margin-top: auto;
+}

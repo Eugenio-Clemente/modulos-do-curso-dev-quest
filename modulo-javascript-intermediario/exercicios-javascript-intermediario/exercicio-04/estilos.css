@@ -1,0 +1,27 @@
+main {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container .primeiro-quadro-azul {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+}
+
+
+ .container .primeiro-quadro-amarelo {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+  } 
+  
+
+.container .segundo-quadro-vermelho {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}

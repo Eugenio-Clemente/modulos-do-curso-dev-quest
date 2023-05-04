@@ -1,0 +1,8 @@
+{
+    "id":1, 
+    "titulo": "vingadores",
+    "sinopse": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. A ratione itaque aut quisquam, nemo neque facere earum ullam? Suscipit architecto consequatur modi distinctio nobis odio obcaecati nulla cumque ipsa unde.",
+    "genero": "Acão",
+    "elenco": ["Tom Hiddleston", "Clemente", "Mario"],
+    "direcao": "Joss whedon" 
+}

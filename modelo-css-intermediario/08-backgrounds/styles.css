@@ -1,0 +1,36 @@
+p {
+  color: coral;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.bg {
+  background-color: lightgreen;
+  background-image: url("./imagens/cat.png");
+}
+
+.bg-image {
+    width: 513px;
+    height: 340px;
+}
+
+.bg-repeat {
+    background-repeat: repeat-y;
+    height: 540px;
+}
+
+.bg-size-cover{
+    background-size: cover;
+    /* A imagem vai cobrir todo elemento */
+    height: 540px;
+}
+
+.bg-fixed{
+    background-attachment:scroll;
+    height: 540px;
+}
+
+.bg-position{
+   background: black url('./imagens/cat.png') no-repeat right top;
+    height: 540px;
+}

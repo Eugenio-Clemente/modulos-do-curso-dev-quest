@@ -1,0 +1,13 @@
+* {
+    margin: 0px;
+}
+
+
+p {
+    margin: 20px;
+    padding: 10px;
+
+    border: solid burlywood 5px;
+    
+    background-color: aqua;
+}
